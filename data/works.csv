@@ -1,0 +1,4 @@
+work_id,application_id,version,medium,state,target_date,rights_state
+W-1,AP-1,v1,painting;performance,draft,2026-08-01,review
+W-2,AP-2,v1,performance,in_progress,2026-09-01,limited
+W-1,AP-1,v2,installation,revised,2026-10-01,pending
